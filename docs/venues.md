@@ -1,42 +1,58 @@
 # Beijing Offsite 2026 — Venue Shortlist
 
-Prepared for the quarterly offsite planning meeting (team of ~20).
-Criteria: central Beijing location, ability to host a full-day meeting for ~20 people (hotel with event/meeting space), guest rating, and transfer time from both arrival points — **Beijing Capital International Airport (PEK)**, where most of the team lands, and **Beijing South Railway Station**, where the high-speed rail arrivals come in.
+Prepared for the quarterly offsite planning meeting (team of ~20). Three central-Beijing hotels with full-day meeting / event space.
+
+Arrival profiles: most of the team flies into **Beijing Capital International Airport (PEK)**; a few colleagues arrive by high-speed rail at **Beijing South Railway Station**.
 
 ## Venue Comparison
 
-| # | Venue | Address | Phone | Rating | Place ID | Transfer from PEK (airport) | Transfer from Beijing South (rail) | Elevation |
-|---|-------|---------|-------|--------|----------|------------------------------|-----------------------------------|------------|
-| 1 | Grand Hotel Beijing | 35 Dong Chang An Jie, Dong Cheng Qu, Bei Jing Shi, China, 100006 | 010 6513 7788 | 4.5 | ChIJ94BccchS8DUR-LZL9CT194s | 33 mins (29.1 km) | 23 mins (13.9 km) | 47.2 m |
-| 2 | New World Beijing Hotel | Bei Jing Xin Shi Jie Jiu Dian, Sanlihe, Dong Cheng Qu, Bei Jing Shi, China, 100051 | 010 5960 8888 | 4.4 | ChIJXf4jFKVS8DURjxEu5uOwz58 | 38 mins (29.8 km) | 20 mins (8.8 km) | 44.3 m |
-| 3 | Crowne Plaza Beijing Wangfujing | 48 Wang Fu Jing Da Jie, Wangfujing, Dong Cheng Qu, Bei Jing Shi, China, 100006 | 010 5911 9999 | 4.0 | ChIJg4-8DdFS8DUR1aLD0mJrl8M | 34 mins (27.5 km) | 30 mins (15.8 km) | 48.1 m |
+| Venue | Address | Phone | Rating | Google Place ID | PEK Airport Transfer | Elevation |
+|---|---|---|---|---|---|---|
+| **JW Marriott Hotel Beijing Central** | 18 Xuanwumenwai Street, Xi Cheng Qu, Beijing 100052, China | 010 6391 6666 | 4.5 | `ChIJ9buYHYFN8DURaMzWLM1b2Jo` | 44 min drive (33.0 km) | 47.3 m |
+| **Hilton Beijing Wangfujing** ✅ RECOMMENDED | 8 Wangfujing East Street (王府井东街8号), Dong Cheng Qu, Beijing 100006, China | 010 5812 8888 | 4.5 | `ChIJxz_lWM9S8DUR3fZnRhUqvWg` | 36 min drive (27.7 km) | 49.0 m |
+| **Grand Hyatt Beijing** | 1 Dong Chang An Jie, Dong Cheng Qu, Beijing 100006, China | 010 8518 1234 | 4.3 | `ChIJ-7gW7stS8DURblr9-SmV9kA` | 33 min drive (28.7 km) | 48.8 m |
 
-All three are within a few minutes' walk of the Forbidden City / Wangfujing / Dongcheng core, so all qualify as genuinely central. All three are full-service hotels with banquet and meeting-room capacity suitable for a ~20-person, full-day session. Elevation data is included for planning the morning run — the city core is essentially flat (all three sit between ~44 and ~48 m above sea level).
+### Secondary transfer — Beijing South Railway Station (high-speed rail arrivals)
 
-## Recommendation — Grand Hotel Beijing
+| Venue | Transfer from Beijing South |
+|---|---|
+| JW Marriott Hotel Beijing Central | 22 min drive (6.4 km) |
+| Hilton Beijing Wangfujing | 28 min drive (14.1 km) |
+| Grand Hyatt Beijing | 23 min drive (13.5 km) |
 
-**Grand Hotel Beijing (Place ID: ChIJ94BccchS8DUR-LZL9CT194s, rating 4.5) is the recommended venue.**
+*All transfer times are typical off-peak driving estimates; budget extra for rush hour. Elevations are meters above sea level (Google Maps Elevation API) — the city core is essentially flat, which suits the morning run.*
 
-Reasoning, weighing transfer time against rating:
+---
 
-- **Best rating of the three (4.5)** — the highest guest score on the shortlist, ahead of New World Beijing (4.4) and well ahead of Crowne Plaza Wangfujing (4.0).
-- **Fastest airport transfer (33 mins / 29.1 km by car)** — and since the majority of the team arrives at PEK, the airport leg is the one that matters most. It beats New World (38 mins) and is one minute faster than Crowne Plaza (34 mins).
-- **Reasonable for the rail contingent too**: 23 mins (13.9 km) from Beijing South. New World is slightly closer to Beijing South (20 mins), but Grand Hotel still wins overall once the larger PEK group and the rating gap are factored in.
-- **Central location**: 35 Dong Chang An Jie, directly on East Chang'an Avenue next to the Forbidden City — hard to beat for a "city center" brief, and reviewers consistently praise the location.
-- **Evening mobility**: the closest subway station is **Wangfujing Station** (Line 1 / Line 8), roughly 0.5 km away — about a 12-minute walk — so people can head into town easily after the meeting day.
+## Recommendation: Hilton Beijing Wangfujing
 
-### Door-to-door directions from Beijing Capital International Airport (PEK) to Grand Hotel Beijing
+**Why (weighing transfer time against rating):**
 
-Driving, ~29.1 km, ~34 mins total:
+- **Highest tier of guest rating (4.5)** — tied with JW Marriott, a clear step above Grand Hyatt (4.3). Reviews consistently praise the service culture, food quality, and guest-relations handling for group arrivals.
+- **Best balance of rating vs. airport transfer.** It ties JW Marriott on rating, but Hilton's PEK transfer is **36 min vs. 44 min** — 8 minutes saved each way for the majority who fly into Capital Airport. Against Grand Hyatt it is only **3 minutes slower** (36 vs. 33 min) while carrying a **0.2-point higher rating**, so the trivial time penalty is far outweighed by the better-rated property.
+- **Evening access is excellent.** The closest subway station is **Wangfujing station (Lines 1 & 8)**, about **1.2 km / ~20 minutes on foot** — and the hotel sits right by the Wangfujing pedestrian shopping/dining street, so people can head into town on foot without needing a car.
+- **Beijing South rail arrivals** are still well served at 28 min by car, and rail colleagues can also take the subway (Line 1/8 interchange to Wangfujing).
+- **Ground elevation ~49 m** — essentially flat for the morning run, similar across all three options (47–49 m).
 
-1. Head west from the terminal, then turn right (0.4 km).
-2. Turn left (0.2 km), then continue straight following signs for **Airport Expressway (机场高速)** toward Terminal 3 / Beijing Downtown (北京城区).
-3. Continue onto **Capital Airport Expressway / S12 (首都机场高速公路)** — 20.4 km (~18 mins).
-4. Take the exit toward **East 2nd Ring Road (东二环) / Dongzhimen Bridge (东直门桥)**, then merge onto the East 2nd Ring Road (3.7 km, ~6 mins).
-5. Take the exit toward **Jianguomennei Dajie (建内大街)** and continue 1.4 km.
-6. Continue onto **East Chang'an Avenue (东长安街)** for 0.9 km, then turn right to arrive at the hotel entrance at 35 Dong Chang An Jie.
+**Runner-up:** Grand Hyatt Beijing, if shaving 3 minutes off the airport transfer and a larger convention-scale ballroom matter more than guest rating.
+
+---
+
+## Door-to-door directions: PEK Airport → Hilton Beijing Wangfujing
+
+Driving, 27.7 km, ~36 min via 首都机场高速公路/S12:
+
+1. Head west (36 m), turn right (0.4 km), turn left (0.2 km).
+2. Continue straight following signs for **Airport Expy / 机场高速 / Terminal 3 / Beijing Downtown (北京城区)** (0.7 km).
+3. Continue onto **首都机场高速公路 / S12 (Capital Airport Expressway)** — 20.4 km (~18 min).
+4. Take the exit toward **E 2nd Ring / 东二环 / Dongzhimen Brg / 东直门桥** (0.8 km), then the ramp to **Dongsishitiao Brg / 东四十条桥**.
+5. Merge onto **东二环 (East 2nd Ring Road)** — 3.0 km (~4 min).
+6. Exit onto **朝阳门南大街**, then turn right onto **金宝街 (Jinbao Street)** — 1.4 km (~6 min).
+7. Continue onto **金鱼胡同 (Jinyu Hutong)** (0.3 km), then turn left onto **校尉胡同 (Xiaowei Hutong)** — destination on the right.
 
 ### Booking notes
 
 - The travel desk can reuse the Google Place IDs above for bookings.
 - Contact the hotels directly to confirm full-day meeting-room capacity, AV, and catering for ~20 people before locking the date.
+
+*Data sources: Google Maps Places / Distance Matrix / Directions / Elevation APIs.*
